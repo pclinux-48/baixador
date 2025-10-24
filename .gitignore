@@ -1,0 +1,12 @@
+# Ignorar a pasta do ambiente virtual (venv)
+venv/
+videos_baixados/
+
+# Ignorar pastas de cache e compilação do Python
+__pycache__/
+*.pyc
+
+# Ignorar logs e arquivos temporários (Geralmente boa prática)
+*.log
+*.tmp
+
